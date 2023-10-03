@@ -32,3 +32,5 @@ To use this webhook, follow these steps:
 - `CHECK`:
   - For `Create` this command is used to relate newly created Trackors to their parent and child Trackors. You can use it with `T.FIELDNAME`, `P-TYPE.FIELDNAME`, and `C-TYPE.FIELDNAME`.
   - For `Update`, this command is used to check the equality of field values. You can use it with `T.FIELDNAME`, `P-TYPE.FIELDNAME`, and `C-TYPE.FIELDNAME`.
+
+**You can use my test server to test automation - test.justbax.uz**
