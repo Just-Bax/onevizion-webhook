@@ -17,7 +17,7 @@ To use this webhook, follow these steps:
 **Mandatory Parameters:**
 
 - `DOMAIN`: Domain name of the OneVizion system.
-- `TOKEN`: Basic or Bearer token from the OneVizion system's API.
+- `TOKEN`: Basic token from the OneVizion system's API. (Will change to Bareer in next update)
 - `TYPE`: The name of the Trackor type for which you want to create a new Trackor.
 
 **Usage of Trackors and Field Names for Commands:**
